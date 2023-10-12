@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>videos</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="/static/css/style.css">
+
+   <link rel="stylesheet" href="/static/css/style.css">
+
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">video</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th>title</th>
+         <th>views</th>
+         <th>time</th>
+         <th>video_link</th>
+         <th width="230">Comments</th>
+      </tr>
+         {% for videos in videos %}
+      <tr>
+          <td>{{videos['title']}}</td>
+         <td>{{videos['views']}}</td>
+         <td>{{videos['time']}}</td>
+         <td>{{videos['videos_link']}}</td>
+       {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
