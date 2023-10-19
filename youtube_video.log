@@ -457,3 +457,435 @@ INFO:werkzeug:127.0.0.1 - - [12/Oct/2023 12:47:22] "GET /static/css/main.css HTT
 INFO:werkzeug:127.0.0.1 - - [12/Oct/2023 12:47:22] "GET /static/css/style.css HTTP/1.1" 200 -
 INFO:root:'builtin_function_or_method' object is not subscriptable
 INFO:werkzeug:127.0.0.1 - - [12/Oct/2023 12:47:28] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 15:09:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 15:09:20] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 15:09:20] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 15:09:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 15:09:28] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 16:42:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 16:42:53] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 16:42:53] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2023 16:42:57] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:56:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:56:43] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:56:43] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:56:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:56:52] "POST /videos HTTP/1.1" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:57:09] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:58:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:58:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:58:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 01:58:32] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:02:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:02:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:02:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:02:52] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:09:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:09:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:09:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:09:25] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:17:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:17:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:17:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:17:51] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:192.168.29.214 - - [14/Oct/2023 02:33:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.214 - - [14/Oct/2023 02:33:13] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.214 - - [14/Oct/2023 02:33:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.214 - - [14/Oct/2023 02:33:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:192.168.29.214 - - [14/Oct/2023 02:33:18] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:37:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:37:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:37:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2023 02:37:53] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:15:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:12] "[35m[1mPOST /videos HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:12] "GET /videos?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:12] "GET /videos?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:12] "GET /videos?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:16:12] "[36mGET /videos?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:30] "[35m[1mPOST /videos HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:30] "[36mGET /videos?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:30] "[36mGET /videos?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:30:30] "[36mGET /videos?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:32:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:32:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:32:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:32:23] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:32:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:40:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:40:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:40:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:40:58] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:40:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:45:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:45:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:45:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:45:59] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:45:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:51:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:51:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:51:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:51:57] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:51:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:56:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:56:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:56:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:56:42] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 12:56:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:03:00] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:14:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:14:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:14:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:15:06] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:15:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:19:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:19:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:19:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:19:55] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:19:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:22:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:22:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:22:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:22:37] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:22:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:26:26] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:26:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:36:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:36:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:36:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:36:53] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:36:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:37:56] "POST /videos HTTP/1.1" 200 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:40:10] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:41:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:41:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:41:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:41:46] "[33mPOST /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:42:25] "[33mGET /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:42:27] "[33mGET /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:42:37] "[33mGET /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:42:45] "[33mPOST /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:44:44] "[33mGET /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:44:48] "[33mPOST /youtube HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:45:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:45:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:45:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:45:22] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:45:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:45:40] "POST /videos HTTP/1.1" 200 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:46:10] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:59:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:59:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:59:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:59:52] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 13:59:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:02:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:02:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:02:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:02:30] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:02:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:05:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:05:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:05:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:06:14] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:06:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:13:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:13:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:13:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:13:41] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 14:13:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:13:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:13:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:13:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:13:59] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:13:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.188.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-672-938
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:21:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:21:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:21:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:21:17] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:21:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:21:31] "GET /videos HTTP/1.1" 200 -
+INFO:root:log my final result[]
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:23:27] "POST /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:23:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:23:32] "GET /videos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2023 15:24:13] "GET /videos HTTP/1.1" 200 -
