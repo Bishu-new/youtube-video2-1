@@ -1,0 +1,8 @@
+selenium
+flask
+flask_core
+requests
+BeautifulSoup
+loggining
+traceback
+csv

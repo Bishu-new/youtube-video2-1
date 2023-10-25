@@ -20,23 +20,14 @@
 
   <div class="table-users">
    <div class="header">Youtube_video_list</div>
-
-   <table cellspacing="0">
-      <tr>
-         <th>Titles</th>
-         <th>Views</th>
-         <th>Time</th>
-         <th>video_link</th>
-         
-      </tr>
-         {% for videos in videos %}
-      <tr>
-          <td>{{videos['titles']}}</td>
-         <td>{{videos['views']}}</td>
-         <td>{{videos['views']}}</td>
-         <td>{{videos['Videos_urls']}}</td>
-       {% endfor %}
-   </table>
+       <ul>
+           {% for item in title1 %}
+      
+            <li>{{item.Text}}</li>
+            <td><a href="{{item.video_link}}" target="_blank"> Watch Video </a></td>
+      
+           {% endfor %}
+       </ul>
 </div>
 
 
