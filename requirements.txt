@@ -2,7 +2,7 @@ selenium
 flask
 flask_core
 requests
-BeautifulSoup
+beautifulsoup4==4.10.0 
 loggining
 traceback
 csv
