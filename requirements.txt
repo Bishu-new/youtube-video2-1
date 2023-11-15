@@ -1,6 +1,6 @@
 selenium
 requests
 beautifulsoup4==4.10.0
-Flask
+Flask ==3.0.0
 Flask-Cors
 gunicorn
