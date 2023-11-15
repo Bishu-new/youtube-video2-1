@@ -1,5 +1,6 @@
 selenium
-flask
-flask_core
 requests
-beautifulsoup4==4.10.0 
+beautifulsoup4==4.10.0
+Flask==1.1.2
+Flask-Cors==3.0.9
+gunicorn==20.0.4
