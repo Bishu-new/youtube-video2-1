@@ -3,6 +3,6 @@ flask
 flask_core
 requests
 beautifulsoup4==4.10.0 
-logging
+logging==0.4.9.6
 traceback
 csv
