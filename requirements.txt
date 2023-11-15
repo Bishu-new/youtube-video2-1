@@ -3,4 +3,3 @@ flask
 flask_core
 requests
 beautifulsoup4==4.10.0 
-gunicorn
